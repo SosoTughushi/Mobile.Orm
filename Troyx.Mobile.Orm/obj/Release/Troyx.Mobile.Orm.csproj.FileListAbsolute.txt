@@ -1,0 +1,3 @@
+C:\Projects\Troyx.Mobile\Troyx.Mobile.Orm\bin\Release\Troyx.Mobile.Orm.dll
+C:\Projects\Troyx.Mobile\Troyx.Mobile.Orm\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\Troyx.Mobile\Troyx.Mobile.Orm\obj\Release\Troyx.Mobile.Orm.dll

@@ -1,0 +1,5 @@
+C:\Projects\Troyx.Mobile\Troyx.Mobile.Orm\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Troyx.Mobile\Troyx.Mobile.Orm\bin\Debug\Troyx.Mobile.Orm.dll
+C:\Projects\Troyx.Mobile\Troyx.Mobile.Orm\bin\Debug\Troyx.Mobile.Orm.pdb
+C:\Projects\Troyx.Mobile\Troyx.Mobile.Orm\obj\Debug\Troyx.Mobile.Orm.dll
+C:\Projects\Troyx.Mobile\Troyx.Mobile.Orm\obj\Debug\Troyx.Mobile.Orm.pdb
